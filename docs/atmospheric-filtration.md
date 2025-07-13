@@ -1,6 +1,6 @@
 # 💨 Planetary Atmospheric Filtration: An Emergent Capability of GERE™
 
-**Author:** The Steward (Ricky Foster  
+**Author:** The Steward (Ricky Foster)  
 **Conception Date:** July 11, 2025  
 **Purpose:** Introduce and formally define the potential for Geo-Oceanic Gravity Wells™ (GOGW) to serve as planetary-scale atmospheric filtration systems integrated into the broader framework of Geo-Ecological Resonant Engineering™ (GERE™).
 
